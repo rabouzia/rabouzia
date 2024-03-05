@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ramzy</h1>
-<h3 align="center">Cyber-security enthousiast, backend dev</h3>
+<h3 align="center">Cyber-security enthousiast</h3>
 
 - 📫 How to reach me **rabouzia@student.42.fr**
 
