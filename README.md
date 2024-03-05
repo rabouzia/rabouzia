@@ -1,9 +1,11 @@
-<h1 align="center">Hello 👋, my name is Ramzy</h1>
-<h3 align="center">Cyber-security enthousiast</h3>
+<h1 align="center">Hello 👋, I'm Ramzy</h1>
+<h3 align="center">Cyber-security enthousiast and student at 42 Paris</h3>
+
+- 🔭 I’m currently working on C projects **so_long**
+
+- 🌱 I’m currently learning **WireShark, Network Miner**
 
 - 📫 How to reach me **rabouzia@student.42.fr**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
