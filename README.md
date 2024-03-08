@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Ramzy</h1>
 <h3 align="center">Cyber-security enthousiast and student at @42Paris</h3>
 
-- 🔭 I’m currently working on C projects **so_long**
+- 🔭 I’m currently working on C projects **pipex**
 
 - 🌱 I’m currently learning **WireShark, Network Miner**
 
