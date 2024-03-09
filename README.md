@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Ramzy</h1>
-<h3 align="center">Cyber-security enthousiast and student at @42Paris</h3>
+<h3 align="center">Cyber-security enthusiast and student at @42Paris</h3>
 
 - 🔭 I’m currently working on C projects **pipex**
 
