@@ -1,6 +1,8 @@
 <h1 align="center">Hello 👋, I'm Ramzy</h1>
 <h3 align="center">Cyber-security enthusiast and student at @42Paris</h3>
 
+[![rabouzia's 42 stats](https://badge.mediaplus.ma/kettlebells/rabouzia?UM6P=off)](https://github.com/oakoudad/badge42)
+
 - 🔭 I’m currently working on C projects **pipex**
 
 - 🌱 I’m currently learning **WireShark, Network Miner**
