@@ -3,7 +3,7 @@
 
 [![rabouzia's 42 stats](https://badge.mediaplus.ma/kettlebells/rabouzia?UM6P=off)](https://github.com/oakoudad/badge42)
 
-- 🔭 I’m currently working on C projects **pipex**
+- 🔭 I’m currently working on C projects **so_long**
 
 - 🌱 I’m currently learning **WireShark, Network Miner**
 
