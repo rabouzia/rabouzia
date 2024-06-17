@@ -1,7 +1,9 @@
 <h1 align="center">Hello 👋, I'm Ramzy</h1>
 <h3 align="center">Cyber-security enthusiast and student at @42Paris</h3>
 
+<div align="center">
 [![rabouzia's 42 stats](https://badge.mediaplus.ma/kettlebells/rabouzia?UM6P=off)](https://github.com/oakoudad/badge42)
+</div>
 
 - 🔭 I’m currently working on C projects **Minishell**
 
