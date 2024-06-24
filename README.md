@@ -51,3 +51,5 @@
 <a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/common_coren.png)</a>
 -->
 </div>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rabouzia&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
