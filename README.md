@@ -5,6 +5,10 @@
 
 [![rabouzia's 42 stats](https://badge.mediaplus.ma/kettlebells/rabouzia?UM6P=off)](https://github.com/oakoudad/badge42)
 
+
+</div>
+<div align="center">
+
 <img src="https://tryhackme-badges.s3.amazonaws.com/ramzerk.png" alt="TryHackMe">
 
 </div>
