@@ -4,9 +4,8 @@
 <div align="center">
 
 [![rabouzia's 42 stats](https://badge.mediaplus.ma/kettlebells/rabouzia?UM6P=off)](https://github.com/oakoudad/badge42)
-<script src="https://tryhackme.com/badge/2618331"></script>
 
-
+<img src="https://tryhackme-badges.s3.amazonaws.com/ramzerk.png" alt="TryHackMe">
 
 </div>
 
