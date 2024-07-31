@@ -9,7 +9,7 @@
 </div>
 <div align="center">
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/ramzerk.png" alt="TryHackMe">
+![tryhackme stats](https://raw.githubusercontent.com/<SET_USERNAME_HERE>/<SET_USERNAME_HERE>/master/assets/thm_propic.png)
 
 </div>
 
