@@ -1,23 +1,11 @@
-<h1 align="center">Hello 👋, I'm Ramzy</h1>
-<h3 align="center">Cyber-security enthusiast and student at @42Paris</h3>
+<h1 align="center">I'm Ramzan</h1>
+<h3 align="center">Cyber-security enthusiast and student </h3>
 
-<div align="center">
-
-[![rabouzia's 42 stats](https://badge.mediaplus.ma/kettlebells/rabouzia?UM6P=off)](https://github.com/oakoudad/badge42)
-
-
-</div>
-<div align="center">
-
-![tryhackme stats](https://raw.githubusercontent.com/<SET_USERNAME_HERE>/<SET_USERNAME_HERE>/master/assets/thm_propic.png)
-
-</div>
 
 - 🔭 I’m currently working on C projects **Minishell**
 
-- 🌱 I’m currently learning **WireShark, Network Miner**
+- 🌱 I’m currently learning **WireShark, Burp Suite**
 
-- 📫 How to reach me **rabouzia@student.42.fr**
 <p align="left">
 </p>
 
@@ -37,6 +25,18 @@
 <a href="https://github.com/rabouzia/42-tc-so_long">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/so_longn.png)</a>
 
 <!-- 
+- 📫 How to reach me **rabouzia@student.42.fr**
+<div align="center">
+
+[![rabouzia's 42 stats](https://badge.mediaplus.ma/kettlebells/rabouzia?UM6P=off)](https://github.com/oakoudad/badge42)
+
+
+</div>
+<div align="center">
+
+![tryhackme stats](https://raw.githubusercontent.com/<SET_USERNAME_HERE>/<SET_USERNAME_HERE>/master/assets/thm_propic.png)
+
+</div>
 <a href="https://github.com/mcombeau/net_practice">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/netpracticee.png)</a>
 <a href="https://github.com/mcombeau/inception">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/inceptione.png)</a>
 <a href="https://github.com/mcombeau/ft_transcendance">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_transcendencee.png)</a>
