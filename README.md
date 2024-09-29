@@ -24,8 +24,8 @@
 <a href="https://github.com/rabouzia/42-tc-push_swap">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/push_swape.png)</a>
 <a href="https://github.com/rabouzia/42-tc-pipex">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/pipexe.png)</a>
 <a href="https://github.com/rabouzia/42-tc-so_long">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/so_longn.png)</a>
-<a href="https://github.com/mcombeau/philosophers">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/philosopherse.png)</a>
-<a href="https://github.com/mcombeau/minishell">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/minishelle.png)</a>
+<a href="https://github.com/rabouzia/42-tc-philosophers">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/philosopherse.png)</a>
+<a href="https://github.com/rabouzia/minihell">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/minishelle.png)</a>
 
 <!-- 
 - 📫 How to reach me **rabouzia@student.42.fr**
