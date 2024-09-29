@@ -2,7 +2,7 @@
 <h3 align="center">Cyber-security enthusiast and student </h3>
 
 
-- 🔭 I’m currently working on C projects **Minishell**
+- 🔭 I’m currently working on C projects **Cub3d**
 
 - 🌱 I’m currently learning **WireShark, Burp Suite**
 
