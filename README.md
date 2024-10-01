@@ -6,15 +6,13 @@
 
 - 🌱 I’m currently learning **WireShark, Burp Suite**
 
+- 💻 Used Language : C, CPP, Python, ASM (arm64, x86_64), Bash
+
 <p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p
-  - C, CPP, Python, ASM (arm64, x86_64), SQL, Bash
-  </p>
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/ramzerk.png" alt="TryHackMe">
 ### School Projects
 
 <div align="center">
