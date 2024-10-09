@@ -28,11 +28,12 @@
 <a href="https://github.com/rabouzia/minihell">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/minishelle.png)</a>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rabouzia&layout=donut-vertical)
+
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2618331" style='border:none;'></iframe>
+
 <!-- 
 - 📫 How to reach me **rabouzia@student.42.fr**
 <div align="center">
-
-
 [![rabouzia's 42 stats](https://badge.mediaplus.ma/kettlebells/rabouzia?UM6P=off)](https://github.com/oakoudad/badge42)
 
 
