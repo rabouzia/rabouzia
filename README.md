@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on C projects **Cub3d**
 
-- 🌱 I’m currently learning **WireShark, Burp Suite**
+- 🌱 I’m currently learning **WireShark, Burp Suite, Docker, Kubernetes**
 
 - 💻 Used Language : C, CPP, Python, ASM (arm64, x86_64), Bash
 
