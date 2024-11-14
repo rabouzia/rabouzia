@@ -27,7 +27,7 @@
 <a href="https://github.com/rabouzia/42-tc-philosophers">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/philosopherse.png)</a>
 <a href="https://github.com/rabouzia/minihell">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/minishelle.png)</a>
 <a href="https://github.com/mcombeau/net_practice">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/netpracticee.png)</a>
-<a href="https://github.com/mcombeau/cub3D">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/cub3de.png)</a>
+<a href="https://github.com/rabouzia/cub3D">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/cub3de.png)</a>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rabouzia&layout=donut-vertical)\
 <img src="https://tryhackme-badges.s3.amazonaws.com/ramzerk.png" alt="Your Image Badge" />
