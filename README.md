@@ -49,13 +49,6 @@
 <a href="https://github.com/mcombeau/inception">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/inceptione.png)</a>
 <a href="https://github.com/mcombeau/ft_transcendance">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_transcendencee.png)</a>
 <a href="https://github.com/mcombeau/ft_irc">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_irce.png)</a>
-<a href="https://github.com/mcombeau/fract-ol">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/fract-ole.png)</a>
-<a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/fdfn.png)</a> 
-<a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/minitalkn.png)</a>
-<a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_containersn.png)</a>
-<a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_servicesn.png)</a>
-<a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/webservn.png)</a>
-
 <a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_transcendencen.png)</a>
 <a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/common_coren.png)</a>
 -->
