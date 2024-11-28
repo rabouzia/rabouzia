@@ -29,9 +29,9 @@
 <a href="https://github.com/mcombeau/net_practice">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/netpracticee.png)</a>
 <a href="https://github.com/rabouzia/cub3D">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/cub3de.png)</a>
 <a href="https://github.com/rabouzia/Piscine_CPP">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/cppe.png)</a>
-<a href="https://github.com/mcombeau/ft_irc">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_irce.png)</a>
-<a href="https://github.com/mcombeau/inception">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/inceptione.png)</a>
-<a href="https://github.com/mcombeau/inception">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/webserve.png)</a>
+<a href="https://github.com/rabouzia/ft_irc">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_irce.png)</a>
+<a href="https://github.com/rabouzia/inception">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/inceptione.png)</a>
+<a href="https://github.com/rabouzia/webserv">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/webserve.png)</a>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rabouzia&layout=donut-vertical)\
 <img src="https://tryhackme-badges.s3.amazonaws.com/ramzerk.png" alt="Your Image Badge" />
