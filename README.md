@@ -22,7 +22,7 @@
 <a href="https://github.com/rabouzia/42-tc-ft_printf">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_printfe.png)</a>
 <a href="https://github.com/rabouzia/42-tc-Born2beroot">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/born2beroote.png)</a>
 <a href="https://github.com/rabouzia/42-tc-push_swap">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/push_swape.png)</a>
-<a href="https://github.com/rabouzia/42-tc-so_long">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/so_longn.png)</a>
+<a href="https://github.com/rabouzia/42-tc-so_long">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/so_longe.png)</a>
 <a href="https://github.com/rabouzia/42-tc-fdf">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/fdfe.png)</a>
 <a href="https://github.com/rabouzia/42-tc-fractol">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/fractole.png)</a>
 <a href="https://github.com/rabouzia/minitalk">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/minitalke.png)</a>
