@@ -31,6 +31,7 @@
 <a href="https://github.com/rabouzia/Piscine_CPP">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/cppe.png)</a>
 <a href="https://github.com/rabouzia/ft_irc">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_irce.png)</a>
 <a href="https://github.com/rabouzia/inception">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/inceptione.png)</a>
+<a href="https://github.com/rabouzia/minitalk">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/minitalke.png)</a>
 <a href="https://github.com/rabouzia/webserv">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/webserve.png)</a>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rabouzia&layout=donut-vertical)\
