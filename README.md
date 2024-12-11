@@ -2,11 +2,11 @@
 <h3 align="center">Cyber-security enthusiast and student </h3>
 
 
-- 🔭 I’m currently working on CPP projects **ft_irc**
+- 🔭 I’m currently working on CPP projects **ft_trancendance**
 
-- 🌱 I’m currently learning **WireShark, Burp Suite, Docker, Kubernetes**
+- 🌱 I’m currently learning **Burp Suite, Docker, Kubernetes, Rust**
 
-- 💻 Used Language : C, CPP, Python, ASM (arm64, x86_64), Bash
+- 💻 Used Language : C, CPP, Python, ASM (arm64, x86), Bash
 
 <p align="left">
 </p>
