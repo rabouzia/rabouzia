@@ -6,25 +6,40 @@
 ```
 
 ```lua
-                    'c.          ramzerk@zoldik.local 
-                 ,xNMM.          --------------------- 
-               .OMMMMo            
-               OMMM0,            Languages: C, CPP, Python, ASM (arm64, x86)
-     .;loddo:' loolloddol;.      Learning: Burp Suite, Docker, Kubernetes, Rust
-   cKMMMMMMMMMMNWMMMMMMMMMM0:    Current Project: ft_trancendance
- .KMMMMMMMMMMMMMMMMMMMMMMMWd.     
- XMMMMMMMMMMMMMMMMMMMMMMMX.      
-;MMMMMMMMMMMMMMMMMMMMMMMM:       OS: macOS / Black Arch
-:MMMMMMMMMMMMMMMMMMMMMMMM:       Wheel: Africa Twin 
-.MMMMMMMMMMMMMMMMMMMMMMMMX.      GPU: GTX 1080Ti 
- kMMMMMMMMMMMMMMMMMMMMMMMMWd.    Terminal: WarpTerminal
- .XMMMMMMMMMMMMMMMMMMMMMMMMMMk   
-  .XMMMMMMMMMMMMMMMMMMMMMMMMK.    
-    kMMMMMMMMMMMMMMMMMMMMMMd      
-     ;KMMMMMMMWXXWMMMMMMMk.
-       .cooc,.    .,coo:.                                
-                                                         
+..............                               
+            ..,;:ccc,.                             ramzerk@zoldik.local
+          ......''';lxO.                           --------------------- 
+.....''''..........,:ld;                           Learning: Burp Suite, Docker, Kubernetes, Rust
+           .';;;:::;,,.x,                          Languages: C, CPP, Python, ASM (arm64, x86)                                                                                
+      ..'''.            0Xxoc:,.  ...              Current Project: ft_trancendance                                                                              
+  ....                ,ONkc;,;cokOdc',.                                                                                               
+ .                   OMo           ':ddo.                                                                                                    
+                    dMc               :OO;          OS: Black Arch                                                                                 
+                    0M.                 .:o.        Wheel: Africa Twin                                                                                          
+                    ;Wd                             GPU: GTX 1080Ti                                                                                                
+                     ;XO,                           Terminal: WarpTerminal                                                                                     
+                       ,d0Odlc;,..                                                                                                   
+                           ..',;:cdOOd::,.                                                                              
+                                    .:d;.':;.                                                                                          
+                                       'd,  .'                                                                                 
+                                         ;l   ..                                                                                                
+                                          .o                                                                       
+                                            c                                                                                  
+                                            .'                                                                                                              
+                                             .                                                                                                              
 ```
+
+
+
+
+
+
+
+
+ 
+
+
+
 
 
 <p align="left">
