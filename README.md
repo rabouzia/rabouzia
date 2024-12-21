@@ -9,7 +9,7 @@
                     'c.          ramzerk@zoldik.local 
                  ,xNMM.          --------------------- 
                .OMMMMo            
-               OMMM0,            Languages: C, CPP, ASM (arm64, x86)
+               OMMM0,            Languages: C, CPP, Python, ASM (arm64, x86)
      .;loddo:' loolloddol;.      Learning: Burp Suite, Docker, Kubernetes, Rust
    cKMMMMMMMMMMNWMMMMMMMMMM0:    Current Project: ft_trancendance
  .KMMMMMMMMMMMMMMMMMMMMMMMWd.     
