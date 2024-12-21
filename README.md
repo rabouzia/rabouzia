@@ -1,28 +1,22 @@
 <h1 align="center"> I'm Ramzan 💻 </h1>
 <h3 align="center">Cyber-security student </h3>
 
-
-- 🔭 I’m currently working on CPP projects **ft_trancendance**
-
-- 🌱 I’m currently learning **Burp Suite, Docker, Kubernetes, Rust**
-
-- 💻 Used Language : C, CPP, Python, ASM (arm64, x86), Bash
 ```lua
-                    'c.          ramzerk@warship.local 
+                    'c.          ramzerk@zoldik.local 
                  ,xNMM.          --------------------- 
-               .OMMMMo           OS: macOS 14.5 23F79 arm64 
-               OMMM0,            Host: Mac15,7 
-     .;loddo:' loolloddol;.      Kernel: 23.5.0 
-   cKMMMMMMMMMMNWMMMMMMMMMM0:    Uptime: 7 days, 7 hours, 25 mins 
- .KMMMMMMMMMMMMMMMMMMMMMMMWd.    Packages: 128 (brew) 
- XMMMMMMMMMMMMMMMMMMMMMMMX.      Shell: zsh 5.9 
-;MMMMMMMMMMMMMMMMMMMMMMMM:       Resolution: 1728x1117 
-:MMMMMMMMMMMMMMMMMMMMMMMM:       DE: Aqua 
-.MMMMMMMMMMMMMMMMMMMMMMMMX.      WM: Rectangle 
- kMMMMMMMMMMMMMMMMMMMMMMMMWd.    Terminal: WarpTerminal 
- .XMMMMMMMMMMMMMMMMMMMMMMMMMMk   CPU: Apple M3 Pro 
-  .XMMMMMMMMMMMMMMMMMMMMMMMMK.   GPU: Apple M3 Pro 
-    kMMMMMMMMMMMMMMMMMMMMMMd     Memory: 4890MiB / 36864MiB 
+               .OMMMMo            
+               OMMM0,            Languages: C, CPP, ASM (arm64, x86)
+     .;loddo:' loolloddol;.      Learning: Burp Suite, Docker, Kubernetes, Rust
+   cKMMMMMMMMMMNWMMMMMMMMMM0:    Current Project: ft_trancendance
+ .KMMMMMMMMMMMMMMMMMMMMMMMWd.     
+ XMMMMMMMMMMMMMMMMMMMMMMMX.      
+;MMMMMMMMMMMMMMMMMMMMMMMM:       OS: macOS / Black Arch
+:MMMMMMMMMMMMMMMMMMMMMMMM:       CPU: i7 4770k 
+.MMMMMMMMMMMMMMMMMMMMMMMMX.      GPU: GTX 1080Ti 
+ kMMMMMMMMMMMMMMMMMMMMMMMMWd.    Terminal: WarpTerminal
+ .XMMMMMMMMMMMMMMMMMMMMMMMMMMk   
+  .XMMMMMMMMMMMMMMMMMMMMMMMMK.    
+    kMMMMMMMMMMMMMMMMMMMMMMd      
      ;KMMMMMMMWXXWMMMMMMMk.
        .cooc,.    .,coo:.                                
                                                          
