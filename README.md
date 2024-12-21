@@ -1,6 +1,10 @@
 <h1 align="center"> I'm Ramzan 💻 </h1>
 <h3 align="center">Cyber-security student </h3>
 
+```zsh
+> neofetch
+```
+
 ```lua
                     'c.          ramzerk@zoldik.local 
                  ,xNMM.          --------------------- 
