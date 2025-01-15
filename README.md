@@ -53,9 +53,9 @@
 <a href="https://github.com/rabouzia/webserv">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/webserve.png)</a>
 <a href="https://github.com/rabouzia/inception">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/inceptione.png)</a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rabouzia&layout=donut-vertical)\
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rabouzia&layout=donut-vertical)
 
-
+![tryhackme stats](https://raw.githubusercontent.com/rabouzia/ramzerk/master/assets/thm_propic.png)
 <!-- 
 - 📫 How to reach me **rabouzia@student.42.fr**
 <div align="center">
@@ -65,7 +65,6 @@
 </div>
 <div align="center">
 
-![tryhackme stats](https://raw.githubusercontent.com/<SET_USERNAME_HERE>/<SET_USERNAME_HERE>/master/assets/thm_propic.png)
 
 </div>
 <a href="https://github.com/mcombeau/ft_transcendance">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_transcendencee.png)</a>
