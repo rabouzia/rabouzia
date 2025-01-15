@@ -29,19 +29,6 @@
                                              .                                                                                                              
 ```
 
-
-
-
-
-
-
-
- 
-
-
-
-
-
 <p align="left">
 </p>
 
@@ -54,8 +41,6 @@
 <a href="https://github.com/rabouzia/inception">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/inceptione.png)</a>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rabouzia&layout=donut-vertical)
-
-![tryhackme stats](https://raw.githubusercontent.com/rabouzia/ramzerk/master/assets/thm_propic.png)
 <!-- 
 - 📫 How to reach me **rabouzia@student.42.fr**
 <div align="center">
