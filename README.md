@@ -9,8 +9,8 @@
 ..............                               
             ..,;:ccc,.                             ramzerk@zoldik.local
           ......''';lxO.                           --------------------- 
-.....''''..........,:ld;                           Learning: Burp Suite, Docker, Kubernetes, Rust
-           .';;;:::;,,.x,                          Languages: C, CPP, Python, ASM (arm64, x86)                                                                                
+.....''''..........,:ld;                           Learning: Burp Suite, Kubernetes, Rust
+           .';;;:::;,,.x,                          Languages: C, CPP, Python, ASM (arm64, x86), Docker                                                          
       ..'''.            0Xxoc:,.  ...              Current Project: ft_trancendance                                                                              
   ....                ,ONkc;,;cokOdc',.                                                                                               
  .                   OMo           ':ddo.                                                                                                    
