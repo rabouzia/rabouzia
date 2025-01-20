@@ -40,7 +40,11 @@
 <a href="https://github.com/rabouzia/webserv">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/webserve.png)</a>
 <a href="https://github.com/rabouzia/inception">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/inceptione.png)</a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rabouzia&layout=donut-vertical)
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=hernandezraymondm&theme=ayu-mirage&show_icons=true&hide_border=true&count_private=true" alt="Top Languages" height="150" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hernandezraymondm&theme=ayu-mirage&show_icons=true&hide_border=true&layout=compact" height="150" />
+</div>
 <!-- 
 - 📫 How to reach me **rabouzia@student.42.fr**
 <div align="center">
