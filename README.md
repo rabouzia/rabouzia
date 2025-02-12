@@ -8,7 +8,7 @@
 ```lua
 ..............                               
             ..,;:ccc,.                             ramzerk@zoldik.local
-          ......''';lxO.                           --------------------- 
+          ......''';lxO.                           ---------------------
 .....''''..........,:ld;                           Learning: Burp Suite, Kubernetes, Rust
            .';;;:::;,,.x,                          Languages: C, CPP, Python, ASM (arm64, x86), Docker                                                          
       ..'''.            0Xxoc:,.  ...              Current Project: ft_trancendance                                                                              
@@ -23,7 +23,7 @@
                                     .:d;.':;.                                                                                          
                                        'd,  .'                                                                                 
                                          ;l   ..                                                                                                
-                                          .o                                                                       
+                                          .o          contact: rabouzia@student.42.fr                                                             
                                             c                                                                                  
                                             .'                                                                                                              
                                              .                                                                                                              
