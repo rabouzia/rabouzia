@@ -9,7 +9,7 @@
 ..............                               
             ..,;:ccc,.                             ramzerk@zoldik.local
           ......''';lxO.                           ---------------------
-.....''''..........,:ld;                           Learning: Burp Suite, Kubernetes, Rust
+.....''''..........,:ld;                           Learning: Burp Suite, Kubernetes, Rust, Q#
            .';;;:::;,,.x,                          Languages: C, CPP, Python, ASM (arm64, x86), Docker                                                          
       ..'''.            0Xxoc:,.  ...              Current Project: ft_trancendance                                                                              
   ....                ,ONkc;,;cokOdc',.                                                                                               
