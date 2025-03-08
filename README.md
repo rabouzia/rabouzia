@@ -48,7 +48,11 @@
 <a href="https://github.com/rabouzia/webserv">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/webserve.png)</a>
 <a href="https://github.com/rabouzia/inception">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/inceptione.png)</a>
 
+<!-- 
+
 <img align="center" src="https://root-me-diff.vercel.app/rm-gh?nickname=ramzerk&gstats=show&style=midnight">
+--> 
+
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=rabouzia&theme=ayu-mirage&show_icons=true&hide_border=true&count_private=true" alt="Top Languages" height="150" />
   &nbsp;
