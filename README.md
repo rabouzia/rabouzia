@@ -11,11 +11,11 @@
           ......''';lxO.                           ---------------------
 .....''''..........,:ld;                           Learning: Burp Suite, Kubernetes, Rust, Q#
            .';;;:::;,,.x,                          Languages: C, CPP, Python, ASM (arm64, x86), Docker                                                          
-      ..'''.            0Xxoc:,.  ...              Current Project: ft_trancendance                                                                              
+      ..'''.            0Xxoc:,.  ...              Current Project: snow-crash                                                                             
   ....                ,ONkc;,;cokOdc',.                                                                                               
  .                   OMo           ':ddo.                                                                                                    
                     dMc               :OO;          OS: Black Arch                                                                                 
-                    0M.                 .:o.        Wheel: Africa Twin                                                                                          
+                    0M.                 .:o.        Ride: Africa Twin                                                                                          
                     ;Wd                             GPU: GTX 1080Ti                                                                                                
                      ;XO,                           Terminal: WarpTerminal                                                                                     
                        ,d0Odlc;,..                                                                                                   
