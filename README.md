@@ -49,7 +49,7 @@
 <a href="https://github.com/rabouzia/inception">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/inceptione.png)</a>
 
 <!-- 
-
+[![rabouzia's hackthebox stats](http://www.hackthebox.eu/badge/image/1730243)](https://app.hackthebox.com/profile/1730243)
 <img align="center" src="https://root-me-diff.vercel.app/rm-gh?nickname=ramzerk&gstats=show&style=midnight">
 --> 
 
