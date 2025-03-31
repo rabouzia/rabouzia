@@ -7,7 +7,7 @@
 
 ```lua
 ..............                               
-            ..,;:ccc,.                             ramzerk@zoldik.local
+            ..,;:ccc,.                              contact: rabouzia@student.42.fr 
           ......''';lxO.                           ---------------------
 .....''''..........,:ld;                           Learning: Burp Suite, Kubernetes, Rust, Q#
            .';;;:::;,,.x,                          Languages: C, CPP, Python, ASM (arm64, x86), Docker                                                          
@@ -23,7 +23,7 @@
                                     .:d;.':;.                                                                                          
                                        'd,  .'                                                                                 
                                          ;l   ..                                                                                                
-                                          .o          contact: rabouzia@student.42.fr                                                             
+                                          .o                                                                     
                                             c                                                                                  
                                             .'                                                                                                              
                                              .                                                                                                              
