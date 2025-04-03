@@ -9,15 +9,15 @@
 ..............                               
             ..,;:ccc,.                             Contact: rabouzia@student.42.fr 
           ......''';lxO.                           ---------------------
-.....''''..........,:ld;                           Learning: Burp Suite, Kubernetes, Rust, Q#
-           .';;;:::;,,.x,                          Languages: C, CPP, Python, ASM (arm64, x86), Docker                                                          
-      ..'''.            0Xxoc:,.  ...              Current Project: snow-crash                                                                             
-  ....                ,ONkc;,;cokOdc',.                                                                                               
+.....''''..........,:ld;                           Learning: Kubernetes, Q#, WireShark
+           .';;;:::;,,.x,                          Languages: C, CPP, Python, ASM (arm64, x86), Rust                                                          
+      ..'''.            0Xxoc:,.  ...              Tools: Docker, Burp Suite, Ghidra                                                     
+  ....                ,ONkc;,;cokOdc',.            Current Project: Darkly                                                                                   
  .                   OMo           ':ddo.                                                                                                    
                     dMc               :OO;          OS: Black Arch                                                                                 
-                    0M.                 .:o.        Ride: Africa Twin                                                                                          
-                    ;Wd                             GPU: GTX 1080Ti                                                                                                
-                     ;XO,                           Terminal: WarpTerminal                                                                                     
+                    0M.                 .:o.        Terminal: WarpTerminal                                                                                        
+                    ;Wd                                                                                                                             
+                     ;XO,                                                                                                                
                        ,d0Odlc;,..                                                                                                   
                            ..',;:cdOOd::,.                                                                              
                                     .:d;.':;.                                                                                          
