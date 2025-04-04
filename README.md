@@ -58,19 +58,10 @@
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabouzia&theme=ayu-mirage&show_icons=true&hide_border=true&layout=compact" height="150" />
 </div>
-<!-- 
-- 📫 How to reach me **rabouzia@student.42.fr**
+<!-- <!--  -->
 <div align="center">
 [![rabouzia's 42 stats](https://badge.mediaplus.ma/kettlebells/rabouzia?UM6P=off)](https://github.com/oakoudad/badge42)
 
 
 </div>
 <div align="center">
-
-
-</div>
-<a href="https://github.com/mcombeau/ft_transcendance">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_transcendencee.png)</a>
-<a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_transcendencen.png)</a>
-<a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/common_coren.png)</a>
--->
-</div>
