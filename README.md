@@ -10,23 +10,23 @@
             ..,;:ccc,.                             Contact: rabouzia@student.42.fr 
           ......''';lxO.                           ---------------------
 .....''''..........,:ld;                           Learning: Kubernetes, Q#, WireShark
-           .';;;:::;,,.x,                          Languages: C, CPP, Python, ASM (arm64, x86), Rust                                                          
-      ..'''.            0Xxoc:,.  ...              Tools: Docker, Burp Suite, Ghidra                                                     
-  ....                ,ONkc;,;cokOdc',.            Current Project: Darkly                                                                                   
- .                   OMo           ':ddo.                                                                                                    
-                    dMc               :OO;          OS: Black Arch                                                                                 
-                    0M.                 .:o.        Terminal: WarpTerminal                                                                                        
-                    ;Wd                                                                                                                             
-                     ;XO,                                                                                                                
-                       ,d0Odlc;,..                                                                                                   
-                           ..',;:cdOOd::,.                                                                              
-                                    .:d;.':;.                                                                                          
-                                       'd,  .'                                                                                 
-                                         ;l   ..                                                                                                
-                                          .o                                                                     
-                                            c                                                                                  
-                                            .'                                                                                                              
-                                             .                                                                                                              
+           .';;;:::;,,.x,                          Languages: C, CPP, Python, ASM (arm64, x86), Rust
+      ..'''.            0Xxoc:,.  ...              Tools: Docker, Burp Suite, Ghidra
+  ....                ,ONkc;,;cokOdc',.            Current Project: Darkly
+ .                   OMo           ':ddo.
+                    dMc               :OO;          OS: Black Arch
+                    0M.                 .:o.        Terminal: WarpTerminal
+                    ;
+                     ;XO, 
+                       ,d0Odlc;,..
+                           ..',;:cdOOd::,.
+                                    .:d;.':;.
+                                       'd,  .'
+                                         ;l   ..
+                                          .o
+                                            c
+                                            .'
+                                             .
 ```
 
 <p align="left">
