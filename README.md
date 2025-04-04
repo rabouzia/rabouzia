@@ -40,15 +40,15 @@
 <br>
 
 
-### School Projects
 
 <div align="center">
 
+
+<!-- 
+### School Projects
 <a href="https://github.com/rabouzia/minihell">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/minishelle.png)</a>
 <a href="https://github.com/rabouzia/webserv">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/webserve.png)</a>
 <a href="https://github.com/rabouzia/inception">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/inceptione.png)</a>
-
-<!-- 
 [![rabouzia's hackthebox stats](http://www.hackthebox.eu/badge/image/1730243)](https://app.hackthebox.com/profile/1730243)
 <img align="center" src="https://root-me-diff.vercel.app/rm-gh?nickname=ramzerk&gstats=show&style=midnight">
 --> 
@@ -58,10 +58,6 @@
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabouzia&theme=ayu-mirage&show_icons=true&hide_border=true&layout=compact" height="150" />
 </div>
-<!-- <!--  -->
-<div align="center">
-[![rabouzia's 42 stats](https://badge.mediaplus.ma/kettlebells/rabouzia?UM6P=off)](https://github.com/oakoudad/badge42)
 
 
-</div>
 <div align="center">
