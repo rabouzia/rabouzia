@@ -1,4 +1,4 @@
-<h1 align="center"> I'm Ramzan 💻 </h1>
+<h1 align="center"> Hi I'm Ramzy 💻 </h1>
 <h3 align="center">Cyber-security student </h3>
 
 ```zsh
