@@ -16,7 +16,7 @@
  .                   OMo           ':ddo.
                     dMc               :OO;         OS: Black Arch
                     0M.                 .:o.       Terminal: WarpTerminal
-                    ;                               
+                    ;                              IDE : Kate
                      ;XO, 
                        ,d0Odlc;,..
                            ..',;:cdOOd::,.
