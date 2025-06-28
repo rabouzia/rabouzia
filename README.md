@@ -9,15 +9,15 @@
 ..............                               
             ..,;:ccc,.                             Contact: rabouzia@student.42.fr 
           ......''';lxO.                           ---------------------
-.....''''..........,:ld;                           Learning: Q#, WireShark
+.....''''..........,:ld;                           Learning: Solidity, WireShark
            .';;;:::;,,.x,                          Languages: C/CPP, Rust, ASM (arm64, x86), Python
       ..'''.            0Xxoc:,.  ...              Tools: Docker, Burp Suite, Ghidra, Kubernetes
-  ....                ,ONkc;,;cokOdc',.            Current Project: Darkly
- .                   OMo           ':ddo.
-                    dMc               :OO;         OS: Black Arch
-                    0M.                 .:o.       Terminal: WarpTerminal
-                    ;                              IDE : Kate
-                     ;XO, 
+  ....                ,ONkc;,;cokOdc',.            Current Project: nmap
+ .                   OMo           ':ddo.          Pentest: Web, Blockchain, iOS
+                    dMc               :OO;         
+                    0M.                 .:o.       OS: Black Arch
+                    ;                              Terminal : Warp
+                     ;XO,                          IDE : Kate
                        ,d0Odlc;,..
                            ..',;:cdOOd::,.
                                     .:d;.':;.
