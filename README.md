@@ -12,8 +12,8 @@
 .....''''..........,:ld;                           Learning: Solidity, WireShark
            .';;;:::;,,.x,                          Languages: C/CPP, Rust, ASM (arm64, x86), Python
       ..'''.            0Xxoc:,.  ...              Tools: Docker, Burp Suite, Ghidra, Kubernetes
-  ....                ,ONkc;,;cokOdc',.            Current Project: 
- .                   OMo           ':ddo.          Pentest: Web, Blockchain, iOS
+  ....                ,ONkc;,;cokOdc',.            Pentest: Web, Blockchain, iOS
+ .                   OMo           ':ddo.          
                     dMc               :OO;         
                     0M.                 .:o.       OS: Black Arch
                     ;                              Terminal : Warp
