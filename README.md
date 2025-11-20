@@ -9,13 +9,13 @@
 ..............                               
             ..,;:ccc,.                             Contact: rabouzia@student.42.fr 
           ......''';lxO.                           ---------------------
-.....''''..........,:ld;                           Learning: Solidity, WireShark
+.....''''..........,:ld;                           Learning: Splunk, CrowqStrike, IDA
            .';;;:::;,,.x,                          Languages: C/CPP, Rust, ASM (arm64, x86), Python
       ..'''.            0Xxoc:,.  ...              Tools: Docker, Burp Suite, Ghidra, Kubernetes
   ....                ,ONkc;,;cokOdc',.            Pentest: Web, Blockchain, iOS
  .                   OMo           ':ddo.          
                     dMc               :OO;         
-                    0M.                 .:o.       OS: Black Arch
+                    0M.                 .:o.       OS: Arch
                     ;                              Terminal : Warp
                      ;XO,                          IDE : Kate
                        ,d0Odlc;,..
