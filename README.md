@@ -9,7 +9,7 @@
 ..............                               
             ..,;:ccc,.                             Contact: rabouzia@student.42.fr 
           ......''';lxO.                           ---------------------
-.....''''..........,:ld;                           Learning: Splunk, CrowdStrike, IDA
+.....''''..........,:ld;                           Learning: IDA, Metasploit
            .';;;:::;,,.x,                          Languages: C, Rust, ASM (arm64, x86), Python
       ..'''.            0Xxoc:,.  ...              Tools: Docker, Burp Suite, Ghidra, Kubernetes
   ....                ,ONkc;,;cokOdc',.            Pentest: Web, Blockchain, iOS
