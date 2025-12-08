@@ -40,7 +40,7 @@
 <div align="center">
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=rabouzia&theme=ayu-mirage&show_icons=true&hide_border=true&count_private=true" alt="Top Languages" height="150" />
+    <img height="50%" width="50%" src="https://github-readme-stats.vercel.app/api?username=rabouzia&theme=ayu-mirage&show_icons=true&hide_border=true&count_private=true" alt="Top Languages" height="150" />
   &nbsp;
             <img align="center" width="95%" src="https://root-me-diff.vercel.app/rm-gh?nickname=Ramzerk&style=midnight" alt="Top Languages" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabouzia&theme=ayu-mirage&show_icons=true&hide_border=true&layout=compact" height="150" />
