@@ -42,6 +42,7 @@
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=rabouzia&theme=ayu-mirage&show_icons=true&hide_border=true&count_private=true" alt="Top Languages" height="150" />
   &nbsp;
+            <img src="https://root-me-diff.vercel.app/rm-gh?nickname=Ramzerk&style=midnight" alt="Top Languages" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabouzia&theme=ayu-mirage&show_icons=true&hide_border=true&layout=compact" height="150" />
 </div>
 
