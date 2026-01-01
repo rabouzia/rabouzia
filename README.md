@@ -6,27 +6,25 @@
 ```
 
 ```lua
-..............                               
-            ..,;:ccc,.                             Contact: rabouzia@student.42.fr 
-          ......''';lxO.                           ---------------------
-.....''''..........,:ld;                           Learning: IDA, Metasploit
-           .';;;:::;,,.x,                          Languages: C, Rust, ASM (arm64, x86), Python
-      ..'''.            0Xxoc:,.  ...              Tools: Docker, Burp Suite, Ghidra, Kubernetes
-  ....                ,ONkc;,;cokOdc',.            Pentest: Web, Blockchain, iOS
- .                   OMo           ':ddo.          
-                    dMc               :OO;         
-                    0M.                 .:o.       OS: Arch
-                    ;                              Terminal : Warp
-                     ;XO,                          IDE : Kate
-                       ,d0Odlc;,..
-                           ..',;:cdOOd::,.
-                                    .:d;.':;.
-                                       'd,  .'
-                                         ;l   ..
-                                          .o
-                                            c
-                                            .'
-                                             .
+                  ##  **                      Contact: rabouzia@student.42.fr
+                *####****.                    ----------------
+                  ###,                        Learning: IDA, Metasploit
+               ...,/#,,,..                    Languages: C, Rust, ASM (arm64, x86), Python
+          /*,,,,,,,,*,........,,              Tools: Docker, Burp Suite, Ghidra, Kubernetes
+        ,((((((//*,,,,,,,,,......             Pentest: Web, Blockchain, iOS
+       ((((((((((((((%............            
+     ,(((((((((((((((@@(............          OS: Asashi
+    (((((((((((((((((@@@@/............        Terminal : terminator
+  ,((((((((((((((((((@@@@@&*...........       IDE : jetbrains / vim
+ ((((((((((((((((((((@@@@@@@&,...........     
+(((((((((((((((((((((@@@&%&@@@%,..........    
+ /(((((((((((((((((((@@@&%%&@@@@(........     
+    ,((((((((((((((((@@@&&@@&/&@@@/..         
+        /((((((((((((@@@@@@/.../&&            
+           .(((((((((@@@@(....                
+               /(((((@@#...                   
+                  .((&,                       
+
 ```
 
 <p align="left">
