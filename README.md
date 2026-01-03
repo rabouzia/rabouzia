@@ -11,7 +11,7 @@
                   ###,                        Learning: IDA, Metasploit
                ...,/#,,,..                    Languages: C, Rust, ASM (arm64, x86), Python
           /,,,,,,,,,*,........,,              Tools: Docker, Burp Suite, Ghidra, Kubernetes
-        ,((((((//*,,,,,,,,,......             Pentest: Web, Blockchain, iOS
+        ,((((((//;,,,,,,,,,......             Pentest: Web, Blockchain, iOS
        ((((((((((((((%............            
      ,(((((((((((((((@@(............          OS: Asashi
     (((((((((((((((((@@@@/............        Terminal : terminator
