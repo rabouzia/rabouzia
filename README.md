@@ -36,6 +36,10 @@
 <!-- https://github.com/user-attachments/assets/d28beda4-d58a-4f99-b3e8-78911828e4e2 -->
 <br>
 <!-- <img align="center" width="50%" src="https://root-me-diff.vercel.app/rm-gh?nickname=Ramzerk&style=midnight" /> -->
-
+ <p>
+    <a href="#">
+      <img src="https://komarev.com/ghpvc/?username=rabouzia&label=Profile%20views&color=0e75b6&style=flat" alt="Views counter"/>
+    </a>
+  </p>
 
 <div align="center">
