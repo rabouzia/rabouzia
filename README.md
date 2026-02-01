@@ -30,7 +30,8 @@
 <p align="left">
 </p>
 <!-- https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2IwdTFoajBqbGhzZDI5ZTFpeTEwY3Nrd2VnMTV3NGs4cDA0cjV4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/I6wUi5eTdUCWI/giphy.gif -->
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2618331" style='border:none;'></iframe>
+<img src="https://tryhackme-badges.s3.amazonaws.com/ramzerk.png" alt="Your Image Badge" />
+
 
 <br>
 <img align="center" width="95%" src="https://github.com/user-attachments/assets/d28beda4-d58a-4f99-b3e8-78911828e4e2" alt="Coding gif" style="pointer-events: none;" />
