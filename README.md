@@ -8,14 +8,14 @@
 ```lua
                   ##  **                      Contact: rabouzia@student.42.fr
                 *####****.                    ----------------
-                  ###,                        Learning: IDA, Metasploit
-               ...,/#,,,..                    Languages: C, Rust, ASM (arm64, x86), Python
-          /,,,,,,,,,*,........,,              Tools: Docker, Burp Suite, Ghidra, Kubernetes
-        ,((((((//;,,,,,,,,,......             Pentest: Web, Blockchain, iOS
+                  ###,                        Learning: IDA, Metasploit, Noir
+               ...,/#,,,..                    Languages: Rust, Solidity, Python, ASM (arm, x86)
+          /,,,,,,,,,*,........,,              Tools: Docker, Burp Suite, Ghidra, Kubernetes, Foundry
+        ,((((((//;,,,,,,,,,......             Pentest: Web, Blockchain
        ((((((((((((((%............            
-     ,(((((((((((((((@@(............          OS: Asashi
-    (((((((((((((((((@@@@/............        Terminal : terminator
-  ,((((((((((((((((((@@@@@&*...........       IDE : jetbrains / vim
+     ,(((((((((((((((@@(............          OS: asashi
+    (((((((((((((((((@@@@/............        Terminal : ghostty
+  ,((((((((((((((((((@@@@@&*...........       IDE : vim
  ((((((((((((((((((((@@@@@@@&,...........     
 (((((((((((((((((((((@@@&%&@@@%,..........    
  /(((((((((((((((((((@@@&%%&@@@@(........     
