@@ -1,5 +1,5 @@
 <h1 align="center"> Honorable salutations 💻 </h1>
-<h3 align="center">Cyber-security student </h3>
+<h3 align="center">Web and Blockchain security</h3>
 
 ```zsh
 > neofetch
