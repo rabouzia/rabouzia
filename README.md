@@ -1,8 +1,8 @@
-<h1 align="center"> Honorable salutations 💻 </h1>
-<h3 align="center">Web and Blockchain security</h3>
+<h1 align="center">Web and Blockchain security 💻 </h1>
+
 
 ```zsh
-> neofetch
+> fastfetch
 ```
 
 ```lua
