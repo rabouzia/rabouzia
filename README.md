@@ -9,13 +9,13 @@
                   ##  **                      Contact: rabouzia@student.42.fr
                 *####****.                    ----------------
                   ###,                        Learning: IDA, Metasploit, Noir
-               ...,/#,,,..                    Languages: Rust, Solidity, Python, ASM (arm, x86)
-          /,,,,,,,,,*,........,,              Tools: Docker, Burp Suite, Ghidra, Kubernetes, Foundry
+               ...,/#,,,..                    Languages: Rust, Solidity, Python
+          /,,,,,,,,,*,........,,              Tools: Docker, Burp Suite, Foundry
         ,((((((//;,,,,,,,,,......             Pentest: Web, Blockchain
        ((((((((((((((%............            
      ,(((((((((((((((@@(............          OS: asashi
     (((((((((((((((((@@@@/............        Terminal : ghostty
-  ,((((((((((((((((((@@@@@&*...........       IDE : vim
+  ,((((((((((((((((((@@@@@&*...........       IDE : neovim
  ((((((((((((((((((((@@@@@@@&,...........     
 (((((((((((((((((((((@@@&%&@@@%,..........    
  /(((((((((((((((((((@@@&%%&@@@@(........     
