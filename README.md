@@ -1,4 +1,4 @@
-<h1 align="center">Web and Blockchain security 💻 </h1>
+<h1 align="center">Embedded and Blockchain security 💻 </h1>
 
 
 ```zsh
