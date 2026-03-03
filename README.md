@@ -11,8 +11,8 @@
                   ###,                        Learning: IDA, Metasploit, Noir
                ...,/#,,,..                    Languages: Rust, Solidity, Python
           /,,,,,,,,,*,........,,              Tools: Docker, Burp Suite, Foundry
-        ,((((((//;,,,,,,,,,......             Pentest: Web, Blockchain
-       ((((((((((((((%............            
+        ,((((((//;,,,,,,,,,......             
+       ((((((((((((((%............
      ,(((((((((((((((@@(............          OS: asashi
     (((((((((((((((((@@@@/............        Terminal : ghostty
   ,((((((((((((((((((@@@@@&*...........       IDE : neovim
@@ -29,20 +29,44 @@
 
 <p align="left">
 </p>
-<!-- https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2IwdTFoajBqbGhzZDI5ZTFpeTEwY3Nrd2VnMTV3NGs4cDA0cjV4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/I6wUi5eTdUCWI/giphy.gif -->
-<!-- <img src="https://tryhackme-badges.s3.amazonaws.com/ramzerk.png" alt="Your Image Badge" /> -->
-
 <details>
 <summary>Projects Summary</summary>
+<table>
+  <tr>
+    <td><a href="https://github.com/rabouzia/sinker"><b>sinker</b></a></td>
+    <td>ESP32-based DNS sinkhole written in Rust to intercept, analyze, and redirect DNS traffic on constrained embedded hardware.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/rabouzia/woody-woodpacker"><b>woody-woodpacker</b></a></td>
+    <td>Custom ELF packer exploring binary obfuscation, runtime unpacking, and low-level execution flow control.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/rabouzia/jwtui"><b>jwtui</b></a></td>
+    <td>Lightweight CLI tool for offline encoding, decoding, and inspection of JWTs, built for portability and pentesting workflows.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/rabouzia/CVE-2024-46987"><b>CVE-2024-46987</b></a></td>
+    <td>Rust-based reproduction of CVE-2024-46987 created to analyze vulnerability mechanics and exploitation paths.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/rabouzia/bot"><b>bot</b></a></td>
+    <td>Async Rust Telegram bot designed to reduce doom scrolling through automated behavioral nudges.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/rabouzia/payloads4burp"><b>payloads4burp</b></a></td>
+    <td>Experimental project using Burp Suite to explore and better understand Java internals, behaviors, and common security patterns.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/rabouzia/ft_nm"><b>ft_nm</b></a></td>
+    <td>Minimal reimplementation of the `nm` utility to study ELF symbol tables and binary introspection.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/rabouzia/dr-quine"><b>dr-quine</b></a></td>
+    <td>Experimental self-replication project exploring quines and controlled replication mechanics in low-level systems.</td>
+  </tr>
+</table>
 
-- **[sinker](https://github.com/rabouzia/sinker)** — ESP32-based DNS sinkhole written in Rust to intercept, analyze, and redirect DNS traffic on constrained embedded hardware. *(In progress)*
-- **[woody-woodpacker](https://github.com/rabouzia/woody-woodpacker)** — Custom ELF packer exploring binary obfuscation, runtime unpacking, and low-level execution flow control. *(In progress)*
-- **[jwtui](https://github.com/rabouzia/jwtui)** — Lightweight CLI tool for offline encoding, decoding, and inspection of JWTs, built for portability and pentesting workflows.
-- **[CVE-2024-46987](https://github.com/rabouzia/CVE-2024-46987)** — Rust-based reproduction of CVE-2024-46987 created to analyze vulnerability mechanics and exploitation paths.
-- **[bot](https://github.com/rabouzia/bot)** — Async Rust Telegram bot designed to reduce doom scrolling through automated behavioral nudges.
-- **[payloads4burp](https://github.com/rabouzia/payloads4burp)** — Experimental project using Burp Suite to explore and better understand Java internals, behaviors, and common security patterns.
-- **[ft_nm](https://github.com/rabouzia/ft_nm)** — Minimal reimplementation of the `nm` utility to study ELF symbol tables and binary introspection.
-- **[dr-quine](https://github.com/rabouzia/dr-quine)** — Experimental self-replication project exploring quines and controlled replication mechanics in low-level systems.
+ 
 
 ---
 
@@ -52,6 +76,8 @@
 - Minimal Minecraft protocol server implementation on ESP32
 - Lightweight MITM proxy on ESP32 for network protocol inspection
 - Controlled keylogging research project to study input capture mechanisms and defensive detection
+- Water plant bot
+  
 </details>
 
 <br>
