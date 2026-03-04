@@ -1,10 +1,5 @@
 <h1 align="center">Embedded and Blockchain security 💻 </h1>
 
-
-```zsh
-> fastfetch
-```
-
 ```lua
                   ##  **                      Contact: 0xmaskass@gmail.com
                 *####****.                    ----------------
