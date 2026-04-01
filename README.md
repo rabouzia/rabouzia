@@ -1,19 +1,19 @@
-<h1 align="center">Web and Blockchain security 💻 </h1>
+<h1 align="center">Embedded and Blockchain 💻 </h1>
 
 ```lua
                   ##  **                      Contact: 0xmaskass@gmail.com
                 *####****.                    ----------------
-                  ###,                        Learning: IDA, Metasploit, Noir
-               ...,/#,,,..                    Languages: Rust, Solidity, Python
-          /,,,,,,,,,*,........,,              Tools: Docker, Burp Suite, Foundry
-        ,((((((//;,,,,,,,,,......             
+                  ###,                        Languages: Rust, C, Solidity, Python
+               ...,/#,,,..                    Embedded : ESP32, STM32, Embassy
+          /,,,,,,,,,*,........,,              Blockchain: Security, Foundry, ZK
+        ,((((((//;,,,,,,,,,......             Tools: Docker, Cargo
        ((((((((((((((%............
      ,(((((((((((((((@@(............          OS: asashi
     (((((((((((((((((@@@@/............        Terminal : ghostty
   ,((((((((((((((((((@@@@@&*...........       IDE : neovim
  ((((((((((((((((((((@@@@@@@&,...........     
 (((((((((((((((((((((@@@&%&@@@%,..........    
- /(((((((((((((((((((@@@&%%&@@@@(........     If you want an app, a bot or a pentest send me a mail.
+ /(((((((((((((((((((@@@&%%&@@@@(........     If you want an app or a bot send me a mail.
     ,((((((((((((((((@@@&&@@&/&@@@/..         
         /((((((((((((@@@@@@/.../&&            
            .(((((((((@@@@(....                
