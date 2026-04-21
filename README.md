@@ -1,3 +1,4 @@
+
 <h1 align="center">Embedded and Blockchain 💻 </h1>
 
 ```lua
@@ -5,6 +6,7 @@
                 *####****.                    ----------------
                   ###,                        Languages: Rust, C, Solidity, Python
                ...,/#,,,..                    Embedded : ESP32, STM32, Embassy
+
           /,,,,,,,,,*,........,,              Blockchain: Security, Foundry, ZK
         ,((((((//;,,,,,,,,,......             Tools: Docker, Cargo
        ((((((((((((((%............
@@ -13,7 +15,7 @@
   ,((((((((((((((((((@@@@@&*...........       IDE : neovim
  ((((((((((((((((((((@@@@@@@&,...........     
 (((((((((((((((((((((@@@&%&@@@%,..........    
- /(((((((((((((((((((@@@&%%&@@@@(........     If you want an app or a bot send me a mail.
+ /(((((((((((((((((((@@@&%%&@@@@(........     
     ,((((((((((((((((@@@&&@@&/&@@@/..         
         /((((((((((((@@@@@@/.../&&            
            .(((((((((@@@@(....                
@@ -72,11 +74,14 @@
 - Lightweight MITM proxy on ESP32 for network protocol inspection
 - Controlled keylogging research project to study input capture mechanisms and defensive detection
 - Water plant bot
+- small kernel linux
+- embedded car os
+- uniswap
   
 </details>
-
-<br>
-<img align="center" width="95%" src="https://github.com/user-attachments/assets/d28beda4-d58a-4f99-b3e8-78911828e4e2" alt="Coding gif" style="pointer-events: none;" />
+<!-- <br><img width="800" height="450" alt="ezgif-2b634940eb43b96b" src="https://github.com/user-attachments/assets/cffb0eee-037a-43a6-9e73-1c4294f0622b" /> -->
+<!-- <img width="800" height="450" alt="ezgif-2b634940eb43b96b" src="https://github.com/user-attachments/assets/5ec22932-24d9-4049-915a-d8c16d14e8f9" /> -->
+<img align="center" width="105%" src="https://github.com/user-attachments/assets/5ec22932-24d9-4049-915a-d8c16d14e8f9" alt="Coding gif" style="pointer-events: none;" />
 <!-- https://github.com/user-attachments/assets/d28beda4-d58a-4f99-b3e8-78911828e4e2 -->
 <br>
 <!-- <img align="center" width="50%" src="https://root-me-diff.vercel.app/rm-gh?nickname=Ramzerk&style=midnight" /> -->
